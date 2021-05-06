@@ -1,3 +1,6 @@
+Сервис стартует на localhost:9091
+
+
 Camel Java Router Project
 =========================
 
@@ -13,4 +16,3 @@ For more help see the Apache Camel documentation
 
     http://camel.apache.org/
 
-Сервис стартует на localhost:9091
